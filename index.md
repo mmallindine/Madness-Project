@@ -4,7 +4,7 @@ layout: base
 date: 2024-12-02
 ---
 
-# Welcome to Xanthan
+# Welcome to Madness Project
 
 {% include figure.html
   class="right"
