@@ -14,10 +14,6 @@ date: 2024-12-02
   source-url="https://commons.wikimedia.org/wiki/File:Xanthan.svg"
 %}
 
-In the 1950s and 1960s, transvestism and transsexualism were teh subject of debate in psychiatric circles in terms of treatments and causes. Some psychiatrists beleived the conditio could be cured, while others thought the best course of action was affirmation of the transsexuals desires.
- 
-
-At its core, this is a debate of whether psychiatry was as service to societal norms or a service to the patients requesting treatment. 
 
 Unlike commercial platforms such as Wix or Squarespace, Xanthan emphasizes openness and durability over quick customization. Updating your site takes a little more attention to detail, but you don’t need any technical background to get started. 
 
