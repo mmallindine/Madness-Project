@@ -22,4 +22,3 @@ Using the navigation bar above, you will find different sections wherein I argue
 
 A note on terminology: the term "transgender" as used in contemporary society is not an accurate reflection of the accounts of psychiatrtists in the 1950s and 1960s. In order to preserve historical terminology while also being respectful to the patients who had this lived experience, I use the term "transexual" to refer to patients seeking medical intervention to change their sex. When the term "transvestite" appears, unless otherwise noted, it is used to refer to men who dress as women but have no desire to change their sex. The use of pronouns to describe patients will be consistant with what the psychiatrists wrote, which may at times seem inconsistant with the gender expression of the patient. 
 
-If you're brand new, jump into our set of guides and [get started](guides/getting-started)!
