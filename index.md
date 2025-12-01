@@ -14,9 +14,10 @@ date: 2024-12-02
   source-url="https://commons.wikimedia.org/wiki/File:Xanthan.svg"
 %}
 
-Xanthan is a simple website template that makes it easy to share humanities work online in an open and sustainable way. Your digital projects can be hosted for free, always accessible, easy to update, and remain available until you decide otherwise.
+In the 1950s and 1960s, transvestism and transsexualism were teh subject of debate in psychiatric circles in terms of treatments and causes. Some psychiatrists beleived the conditio could be cured, while others thought the best course of action was affirmation of the transsexuals desires.
+ 
 
-At its core, Xanthan supports creative approaches to scholarship and teaching. It includes features for digital storytelling---such as a StoryMap-style interface---that invite you to present research in ways that are visually engaging and intellectually compelling.
+At its core, this is a debate of whether psychiatry was as service to societal norms or a service to the patients requesting treatment. 
 
 Unlike commercial platforms such as Wix or Squarespace, Xanthan emphasizes openness and durability over quick customization. Updating your site takes a little more attention to detail, but you don’t need any technical background to get started. 
 
