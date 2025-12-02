@@ -15,8 +15,8 @@ tags:
   - music
 ---
 
-# Welcome to the Jungle
-This essay shows almost all the design elements you can employ on your essay pages. Most of the text is just dummy text to keep the focus on the page elements.
+# Transsexual Emergence And Debate in American Psychiatry, 1950-1969
+A historical study of male-to-female transsexuals from the perspective of psychiatrists.
 
 
 ## Second heading
