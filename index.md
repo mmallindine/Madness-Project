@@ -4,7 +4,7 @@ layout: base
 date: 2024-12-02
 ---
 
-# Welcome to Madness Project
+# Transexual Emergence and Debate in American Psychiatry, 1950-1969
 
 {% include figure.html
   class="right"
