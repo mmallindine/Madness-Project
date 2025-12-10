@@ -23,13 +23,13 @@ A historical study of male-to-female transsexuals from the perspective of psychi
 {% include figure.html 
 class="right" 
 width="48%" 
-caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris." 
+caption="Christine Jorgensen in 1953, Image courtsey of Digital Transgender Archive." 
 image-path="images/jorgensen1.jpg" 
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
+In September 1951, an American Army veteran named George Jorgensen began to receive a series of surgical operations to change his sex. By the end of 1952, Jorgensen had completed surgical sex reassignment and now had a passport reflecting her new name, Christine. Jorgensen was the first largely publicized case of sex change for an American citizen. The large press coverage of her transition gave more public attention to transsexualism, but did not create any conclusions. American psychiatrists were unsure of the cause of transsexualism or how to treat it. The general debate was to affirm and medically alter the transsexual’s body, as was the case with Christine Jorgensen, or to encourage the transsexual to embrace more masculine behaviors, as was the case with countless other psychiatric patients expressing transsexuality.[^note1]
 
-[^note1]: This is my citation at the end of the FIRST paragraph.
+[^note1]: Meyerowitz, How Sex Changed, 60-61.
 
 Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
 
