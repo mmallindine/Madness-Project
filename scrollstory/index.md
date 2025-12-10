@@ -19,7 +19,7 @@ tags:
 A historical study of male-to-female transsexuals from the perspective of psychiatrists.
 
 
-## Introduction
+## Intro
 {% include figure.html 
 class="right" 
 width="48%" 
