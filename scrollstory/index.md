@@ -1,6 +1,6 @@
 ---
-title: Forest
-author: Fred Gibbs
+title: Scrollstory
+author: Madeline Mallindine
 layout: base
 date: 2025-07-21
 thumbnail: images/transvestismtoday-1.jpg
@@ -24,7 +24,7 @@ A historical study of male-to-female transsexuals from the perspective of psychi
 class="right" 
 width="48%" 
 caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris." 
-image-path="images/unmprofile.jpg" 
+image-path="images/jorgensen1.jpg" 
 %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^note1]
