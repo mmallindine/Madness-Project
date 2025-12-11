@@ -26,7 +26,7 @@ width="48%"
 caption="Christine Jorgensen in 1953, Image courtsey of Digital Transgender Archive." 
 image-path="images/jorgensen1.jpg" 
 %}
-
+Test Test Test
 In September 1951, an American Army veteran named George Jorgensen began to receive a series of surgical operations to change his sex. By the end of 1952, Jorgensen had completed surgical sex reassignment and now had a passport reflecting her new name, Christine. Jorgensen was the first largely publicized case of sex change for an American citizen. The large press coverage of her transition gave more public attention to transsexualism, but did not create any conclusions. American psychiatrists were unsure of the cause of transsexualism or how to treat it. The general debate was to affirm and medically alter the transsexual’s body, as was the case with Christine Jorgensen, or to encourage the transsexual to embrace more masculine behaviors, as was the case with countless other psychiatric patients expressing transsexuality.[^note1]
 
 [^note1]: Meyerowitz, *How Sex Changed*, 60-61.
