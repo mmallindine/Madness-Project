@@ -1,5 +1,5 @@
 ---
-title: Scrollstory
+title: Article
 author: Madeline Mallindine
 layout: base
 date: 2025-07-21
