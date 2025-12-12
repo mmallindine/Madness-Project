@@ -38,7 +38,7 @@ A 1964 article of *The National Insider* by Arnold Wells titled “Exclusive! MD
 
 {% include figure.html 
 class="right" 
-width="48%" 
+width="25%" 
 caption="Image of Coccinelle in Wells' article." 
 image-path="images/mdreveal1.jpg" 
 %}
@@ -68,24 +68,26 @@ Dr. Kenneth Walker, also quoted in *Transvestism Today*, supplements Kutash’s 
   
   “In time – and many years will be required for this – a society which at present looks upon these strange afflictions of their fellow men with loathing, hated, and horror may become sufficiently educated to look upon them with compassion. Or is this too much to expect of nations which claim to follow the teachings of God?”
 
-{% include scrollybox/bg.html
-  height="220vh"
-  position="top"
-  image-path="images/mvh-women-supervision.jpg"
-  above-box-space = "100vh"
-  box-content=' One stated reason for building a men-only dorm is that Hokona Hall could be freed up to be used as a women-only dorm, where they would have supervision "of the best sort".'
-%}
+The role of the psychiatrist in treating the transsexual was essentially to ensure the transsexual was truly female in mind, just not in body. Podolsky and Wade, as well as Wells, have sections of their work that state therapy is needed to ensure the transsexual is of a sound mind, which would eliminate the possibility that the transsexual was a mentally sick man, but instead a woman who needed medical treatment. Since authors of both works recognize that psychiatry had been unable to fix transsexual desires, they were clear in their conclusion that the best course of action for transsexuals was affirmation of their identities and medical procedures to align their body and mind. 
 
 
 ## Gender Roles in Psychiatric Treatment
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
 
-{% include aside.html class="middle" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
+In postwar America, there was a significant shift in the way Americans thought about sex. Specific to how children were taught about sex, before the war sex education was a private matter. It was up to parents to talk to their children about sex, and often it was kept vague and was not comprehensive enough for children to understand exactly what was being discussed. By the 1950s, sex education had changed and Americans realized the need for children to know about their bodies (at an age appropriate level) to be able to express themselves and understand what healthy sexual habits were. The idea here was that through more in-depth education, children would be less likely to unhealthy experiment with sex and their bodies, leading to a sexually healthier society.[6]
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+Just as this shift in attitudes towards sex education were happening, Bruno Bettelheim published Love is Not Enough, a book documenting life in an unnamed children’s psychiatric institution. Bettelheim documents several male children in the book who claimed to be female or want to be female, and subsequently documents how the psychiatric staff responded to and corrected this behavior. The children’s desires stemmed anywhere from wanting to grow their hair out long and wear girls clothes, to some even expressing that they wanted to remove their genitals. The psychiatric staff had several responses to these children, all of which involved reasserting gender norms.[7] 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
+As part of the general psychiatric treatment at the children’s institution, the children were allowed to select their own clothing. The psychiatrists believed that this gave the children a sense of control over their lives, allowing them not to feel trapped in the institution. This also allowed the children to express themselves, including their inner thoughts and fears. One child, whom Bettelheim refers to as Chris (all of the children in the book are given pseudonyms), had a “schizophrenic-like” personality and only wore clothes with holes in them. The staff at the institution eventually came to believe, and Chris admitted, he feared being shot at or impaled, so he wore clothes with holes in them to let himself know that he was still alive, but having clothes with no holes meant that his shooting or impalement was still coming. Since this helped Chris express himself, he was allowed to wear clothes with holes.  
+
+Another child, George, would go outside in a hot summer day in thick socks, boots, and a heavy jacket. On cold winter days he would go outside in sandals, without socks, and in a shorts and a T-shirt. Bettelheim states “no efforts are made to argue the unreasonableness” of these actions, as the psychiatric staff understand it is part of the child’s mental state to want to do such things, therefor he can do it. Since clothing is symbolic, Bettelheim claims, allowing children to express themselves with the small amount of freedom they have is important to understanding them and helping them integrate into society.  
+
+ 
+
+The same luxury was not given to male children who wished to present as female. There were limits as to the kinds of expression that were allowed and the kids that were not. One of the institutions rules, whether this was official or unofficial is unclear, is, “even with the freedom we permit, the child must still conform in some measure to the conventions of the world,” further, “we do not let a boy select girls’ dresses (or vice versa) no matter how strong his transvestite tendencies may be.” The line of acceptable and unacceptable social norms was firmly rooted in gender expression. Believing oneself to be impaled or shot was within the conventions of the world, as was risking heat stroke or hypothermia, but gender deviance is where the line was drawn for the psychiatrists and staff in this institution.  
+
+One child, Lester, was clever enough to work around the clothing restrictions. He grew out his hair long and refused to allow anyone to cut it, citing that he wanted to look like a girl. Lester, and others who disobeyed the dress and appearance standard, was not allowed to go out beyond the immediate vicinity of the institution under their supervision, as doing so would “make a fool of himself in society.” Since Lester’s hair did not abide by the gendered expectations of the time, the institution leadership claimed that they had an “obligation to protect him from ridicule.” Lester did later open up to his counselor, mentioning that beyond looking like a girl, he wanted to become a girl. He explained to his counselor how he wanted his genitals gone, which the counselor dismissed as a “fear of castration.”  
+
+In another section of Bettelheim’s book, discussing bathing habits, a child called Louis expressed that he wished to be a girl. His confession came after counselors at the institution noticed that he would try to hide his genitals between his legs. During conversation with his counselor, Louis revealed his wish to be a girl, and that during free time he would play make-believe games as a female character. Further, he stated that he viewed himself as a girl. The specific course of his treatment is unclear in Bettelheim's narrative, as is the case with Lester. It is noted that Louis made “considerable progress,” but the specifics of his treatment are unknown.[8]
 
 
 ## Queer Resistance to Psychiatry
@@ -136,4 +138,8 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 [5] Podolsky and Wade, "The Law Looks at Transvestism," in *Transvestism Today*.
 
+[6] Lawrence R. Samuel, *Sexidemic: A Cultural History of Sex in America*, Rowman and Littlefield Publishers, Inc., 2013, 23-24.
 
+[7] Bruno Bettelheim, "The Outside World" in *Love is Not Enough: The Treatment of Emotionally Disturbed Children*, The Free Press, 1950.
+
+[8] Bettelheim, "In the Bathroom," in *Love is Not Enough*. 
