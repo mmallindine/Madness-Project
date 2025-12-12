@@ -33,12 +33,6 @@ With the political climate opening more dialogue to resisting transgender affirm
 
 [^note1]: Meyerowitz, *How Sex Changed*, 60-61.
 
-Aliquam in sapien mauris. Aliquam erat volutpat. Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.[^note2]
-
-[^note2]: This is my citation at the end of the SECOND paragraph.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
 {% include juxtapose.html
 image1="images/mvh-tv-room.jpg"
 image2="images/mvh-hist-common-room.jpg"
@@ -46,14 +40,16 @@ caption="From the TV room to the Chair room (actually, the History Department Co
 %}
 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
-
 ## Transsexual Affirmation
 
-A 1964 article of The National Insider by Arnold Wells titled “Exclusive! MD Reveals the Fourth Sex!: Not Female, Not Male, and Not Homosexual,” provides a sensationalist account of the emergence of transsexualism in public discourse. The “fourth sex” that Wells documents is the transsexual, specifically men who wish to become or have become women. Although this was written over a decade after Christine Jorgensen’s case rose to fame, Wells’s article articulates how society understood transsexuals. He reports: “members of the medical profession are divided in better controversy about it,” “Religious groups are ready to condemn it,” and “laws of every state are a mass confusion.” Despite the divide in the medical profession and societal confusion/distain for accepting these individuals, Wells writes about several psychiatrists that believe the only cure to transexual desires is to affirm both socially and surgically.  
+A 1964 article of *The National Insider* by Arnold Wells titled “Exclusive! MD Reveals the Fourth Sex!: Not Male, Not Female, and Not Homosexual,” provides a sensationalist account of the emergence of transsexualism in public discourse. The “fourth sex” that Wells documents is the transsexual, specifically men who wish to become or have become women. Although this was written over a decade after Christine Jorgensen’s case rose to fame, Wells’s article articulates how society understood transsexuals. He reports: “members of the medical profession are divided in better controversy about it,” “Religious groups are ready to condemn it,” and “laws of every state are a mass confusion.” Despite the divide in the medical profession and societal confusion/distain for accepting these individuals, Wells writes about several psychiatrists that believe the only cure to transexual desires is to affirm both socially and surgically.[^note2] 
 
-In the article, Wells includes pictures of several of these transexuals in revealing outfits that show feminine body characteristics, including a nude photo of Coccinelle, a French transsexual and performer. Her body was positioned to not show anything too revealing for a newspaper, but the obvious sexual suggestiveness of the photo comes from her clearly feminine physique, facial expression, and hairstyle. The photograph mimics the pin-up girl art made famous in WWII and the images that would be used in Playboy, the popular magazine for the male sexual appetite. Intimate Matters, 280, 302-303.  
+[^note2] Wells, "Exclusive! MD Reveals the Fourth Sex!: Not Male, Not Female, and Not Homosexual."
+
+In the article, Wells includes pictures of several of these transexuals in revealing outfits that show feminine body characteristics, including a nude photo of Coccinelle, a French transsexual and performer. Her body was positioned to not show anything too revealing for a newspaper, but the obvious sexual suggestiveness of the photo comes from her clearly feminine physique, facial expression, and hairstyle. The photograph mimics the pin-up girl art made famous in WWII and the images that would be used in Playboy, the popular magazine for the male sexual appetite.[^note3]
+
+[^note3]: D'Emilio and Freedman, *Intimate Matters*, 280, 302-303.
+   
 
 By framing transsexual women in the eyes of the male gaze, not to mention referring to transsexuals as women and using she/her pronouns to describe them, Wells creates a strongly affirming narrative of transsexuals as females. Beyond how Wells frames the women, the psychiatrists he quotes and cites also leave no room for misinterpretation. Summing up the findings of Dr. Pauly and Dr. Benjamin, their understanding of the transsexual is simply: “As women, they hate the male organs attached to their bodies.” The article also says that psychiatry had been unable to “cure” any transsexuals, that is, to get the transsexual to wish to live as a man, and the only fix to the mind-body disruption is for surgical operation.  
 
