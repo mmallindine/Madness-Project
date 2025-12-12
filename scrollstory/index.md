@@ -46,6 +46,7 @@ A 1964 article of *The National Insider* by Arnold Wells titled “Exclusive! MD
 
 [^note2] Wells, "Exclusive! MD Reveals the Fourth Sex!: Not Male, Not Female, and Not Homosexual."
 
+
 In the article, Wells includes pictures of several of these transexuals in revealing outfits that show feminine body characteristics, including a nude photo of Coccinelle, a French transsexual and performer. Her body was positioned to not show anything too revealing for a newspaper, but the obvious sexual suggestiveness of the photo comes from her clearly feminine physique, facial expression, and hairstyle. The photograph mimics the pin-up girl art made famous in WWII and the images that would be used in Playboy, the popular magazine for the male sexual appetite.[^note3]
 
 [^note3]: D'Emilio and Freedman, *Intimate Matters*, 280, 302-303.
@@ -55,11 +56,16 @@ By framing transsexual women in the eyes of the male gaze, not to mention referr
 
 *Transvestism Today*, a book written for psychiatrists in 1960 by Edward Podolsky, a sexologist, and Carlson Wade, a self-described “pulp sexologist,” argue to psychiatrists the need to understand the differences between men who want to medically alter their sex (transsexuals) and men who dress as women for entertainment purposes (transvestites). They argue that understanding the difference is important to not only how the transsexuals/transvestites are treated by the medical community, but also in determining the cause of the conditions.  
 
-One of the issues that the authors of *Transvestism Today* tackle is whether or not someone who is physically healthy should have surgical intervention. With these medical ethics, it would be impossible to perform a sex-change operation, as there is nothing that is physically cured with this operation that a physician could prove, as transsexualism is a condition of the mind. This sparks room for the debate of the origin of transsexuality. If it is a choice, and the transsexual is only having a mental urge to become the opposite sex, then medical intervention is unnecessary and it should be left to psychiatrists. However, if a cause can be determined that shows medical intervention is necessary for someone who is “mentally ‘female’” but physically male, as the authors of *Transvestism Today* put it, then a sex-change operation would be medically necessary. (Transvestism Today, “What is Trans-Sexualism?”) 
+One of the issues that the authors of *Transvestism Today* tackle is whether or not someone who is physically healthy should have surgical intervention. With these medical ethics, it would be impossible to perform a sex-change operation, as there is nothing that is physically cured with this operation that a physician could prove, as transsexualism is a condition of the mind. This sparks room for the debate of the origin of transsexuality. If it is a choice, and the transsexual is only having a mental urge to become the opposite sex, then medical intervention is unnecessary and it should be left to psychiatrists. However, if a cause can be determined that shows medical intervention is necessary for someone who is “mentally ‘female’” but physically male, as the authors of *Transvestism Today* put it, then a sex-change operation would be medically necessary.[^note4]
+
+[^note4]: Podolsky and Wade, *Transvestism Today*, “What is Trans-Sexualism?” 
 
 This is the reason the separation of transsexualism and transvestism was so important to Podolsky and Wade, who quote and cite the same doctor that Wells used in his newspaper article, Dr. Benjamin. Dr. Benjamin stated, “most transvestites would be horrified at the idea of being operated on” to change their sex, while transsexuals “only live for the day when his hated sex organs can be removed, organs which to him are a dreadful deformity.” Dr. Benjamin framing transsexualism as a deformity, rather than a mental condition, shows that medically necessary treatment is required to fix a female person, born into a male body.  
 
-The book ends with a short section quoting Dr. Samuel B. Kutash, a psychologist who worked in the New York State Department of Correction. He wrote a critique of how laws regarding dressing norms effect male transvestites and transsexuals (meaning anyone assigned male at birth who dresses as female with without permanent sex change in mind) much more than a female wearing male clothing. He noted that the law, as written, did not differ from a male or female wearing the others clothing, but in application the law was used against male transvestites and transsexuals. (Transvestism Today, “The Law Looks at Transvestism”) 
+The book ends with a short section quoting Dr. Samuel B. Kutash, a psychologist who worked in the New York State Department of Correction. He wrote a critique of how laws regarding dressing norms effect male transvestites and transsexuals (meaning anyone assigned male at birth who dresses as female with without permanent sex change in mind) much more than a female wearing male clothing. He noted that the law, as written, did not differ from a male or female wearing the others clothing, but in application the law was used against male transvestites and transsexuals.[^note5]
+
+[^note5]: Podolsky and Wade, *Transvestism Today*, “The Law Looks at Transvestism."
+
 
 Dr. Kenneth Walker, also quoted in *Transvestism Today*, supplements Kutash’s statement about unequal policing of gender norms in the same chapter. Walker stated that the law steps in to barr males from dressing as females, so when a medical operation can make the transsexual compliant with the law, the psychiatric and otherwise medical community finds ways to show that the transsexual is in some way mentally ill, not a female. He offered the following quotes regarding societal unacceptance of allowing transsexuals to live as they please: 
 
@@ -76,7 +82,7 @@ Dr. Kenneth Walker, also quoted in *Transvestism Today*, supplements Kutash’s 
 %}
 
 
-## Cras magna nunc
+## Gender Roles in Psychiatric Treatment
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
 
 {% include aside.html class="left" text="
@@ -87,47 +93,13 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 
-<!-- this is an unclosed div that needs to be closed with bg-multi-long-close-->
-{% include scrollybox/bg-multi-long.html
-  bg-id="bg1"
-  image-path="images/mvh-floorplan.jpg"
-  above-box-space="0"
-  font-size = "150%"
-  line-height = "100%"
-%}
-
-Now we have a text box scrolling up over the image. At various points (clearly labled in the following text) **the background image will switch.**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec ante ligula. Nulla fringilla ligula sit amet nisl consectetur ultricies. Mauris ac tellus eu ante lobortis rhoncus non eu nisl. Curabitur consectetur placerat commodo. Maecenas sagittis facilisis turpis vel porta. Nulla facilisi. Nam viverra eget metus eget efficitur.
-
-
-### IMAGE SWITCH HERE 
-
-{% include scrollybox/bg-switch.html
-  image-path="images/mvh-tv-room.jpg"
-  switch-id="switch1"
-  bg-id="bg1"
-%}
-
-
-### Duis vehicula erat et diam
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
-
-
-#### Almost done
-This is the end of the story, and you should see the text box scroll out of view followed by the background image.
-
-
-{% include scrollybox/bg-multi-long-close.html %}
-
-
-## Duis vehicula erat et diam
+## Queer Resistance to Psychiatry
 {% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
 Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
 
 
-## Praesent libero mi
+## Conclusion
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
 
 Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
