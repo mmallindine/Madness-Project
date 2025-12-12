@@ -15,7 +15,7 @@ tags:
   - music
 ---
 
-# Causes and Treatments of Transsexuality in America, 1950-1969
+# Transsexuality in American Psychiatry, 1950-1970
 
 
 ## Introduction
@@ -130,7 +130,13 @@ Queer people being targeted and labeled as mentally ill by the psychiatric commu
 
 ## Conclusion
 
+Roughly two decades from Christine Jorgensen making headlines for undergoing a sex-change operation, the psychiatric profession had made no friend of transsexuals. The supportive psychiatrist was the exception, not the norm. Arnold Wells’ newspaper article affirmed the identity of transsexual women, presenting them in feminine appearance, referring to them with she/her pronouns, and framing them to the male gaze. Wells also introduces some psychiatrists that supported the idea of transsexuality as legitimate, such as Dr. Harry Benjamin who was also featured in Transvestism Today by Edward Podolsky and Carlson Wade. In this book, the authors feature psychiatrists who comment on the policing of gender norms which targeted transsexuals, and the lack of compassion that society was showing to these people.  
 
+These compassionate psychiatrists lost the debate to psychiatrists who rigidly enforced social norms. In the children’s institute of Bettelheim’s book, psychiatric staff refused to affirm their patient’s gender expression and instead boiled it down to a fear of castration. Dr. Abdullah reported that one of his patients, Q.E., only expressed feminine tendencies due to being raised by women. Institutional psychiatry dismissed gender expression that did not conform to societal norms as simply a response to adverse environmental childhood factors.  
+
+The publication of  the DSM in 1952 formally established gender roles as a psychiatric fact. Deviations from the norms of gender, in sexual preference or gender expression were disordered. No input was taken from transsexuals or homosexuals on their status as mentally ill. Psychiatrists published articles ridiculing transsexuals, suggesting that their identity was nothing more than psychosis or an unhealthy distraction from reality. In 1970, the queer community reached a tipping point, infiltrating a psychiatric conference to press psychiatrists about the harm they were doing. Transsexual and otherwise queer people simply wanted to live their lives and not be labeled as sick, but others, such as Gary Alinder, went further to advocate for the abolition of psychiatry. 
+
+As transsexuality was introduced to American medicine, many psychiatrists sought to help transsexuals through affirmation, but the prevailing view in practice and in rhetoric was to understand transsexualism as a mental illness. 
 
 ## Endnotes
 
@@ -158,4 +164,4 @@ Queer people being targeted and labeled as mentally ill by the psychiatric commu
 
 [12] Hugo G. Beigel, "The Myth of Latent Femininity in the Male," *Turnabout: A Magazine of Transvestism*, no. 5 (Spring 1965), 3-5.
 
-[13] Gary Alinder, "Psychiatry: Crime Against Nature, *Great Speckled Bird*, 1970, 6-7. 
+[13] Gary Alinder, "Psychiatry: Crime Against Nature," *Great Speckled Bird*, 1970, 6-7. 

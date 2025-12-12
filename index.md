@@ -4,10 +4,10 @@ layout: base
 date: 2024-12-02
 ---
 
-# Causes and Treatments of Transsexuality in America, 1950-1969
+# Transsexuality in American Psychaitry, 1950-1970
 
 
-In the 1950s and 1960s, transsexualism was the subject of debate in psychiatric circles in terms of treatments and causes. Some psychiatrists beleived the condition could be cured, while others thought the best course of action was affirmation of the transsexuals desires. 
+In the 1950s and 1960s, transsexualism was a subject of debate in psychiatric circles as cases of sex change operations become more common. Some psychiatrists beleived transsexuality could be cured, while others thought the best course of action was affirmation of the transsexuals desires. In the first twenty years of transexualtiy in American discourse, some psychaitrists were sympathetic to transsexuals and figured medical intervention could help, while the mainstream view was that transsexuality was nothing more than psychiatric abnormality and illness. 
 
 Using the navigation bar above, you will find bief synposes of my sources, the research article, and my full bibliography. 
 
