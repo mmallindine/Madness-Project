@@ -46,7 +46,7 @@ In the article, Wells includes pictures of several of these transexuals in revea
 
 {% include figure.html 
 class="right" 
-width="45%" 
+width="25%" 
 caption="Another image of Coccinelle in Well's article." 
 image-path="images/mdreveal1.jpg" 
 %}
