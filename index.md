@@ -4,14 +4,8 @@ layout: base
 date: 2024-12-02
 ---
 
-# Transexual Emergence, Debate, and Treatment in American Psychiatry, 1950-1969
+# Early Transsexual Debates and Treatments in America 1950-1969
 
-{% include figure.html
-  class="right"
-  width="33%"
-  caption=""First Step to Femininity" Illustration in *Transvestism Today*"
-  image-path="/assets/images/firststep1.jpg"
-%}
 
 In the 1950s and 1960s, transvestism and transsexualism were the subject of debate in psychiatric circles in terms of treatments and causes. Some psychiatrists beleived the condition could be cured, while others thought the best course of action was affirmation of the transsexuals desires. 
 

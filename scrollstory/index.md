@@ -15,7 +15,7 @@ tags:
   - music
 ---
 
-# Transsexual Emergence, Debate, and Treatment in American Psychiatry, 1950-1969
+# Early Transsexual Debates and Treatments in America, 1950-1969
 
 
 ## Introduction
