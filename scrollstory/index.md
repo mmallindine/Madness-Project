@@ -140,28 +140,28 @@ As transsexuality was introduced to American medicine, many psychiatrists sought
 
 ## Endnotes
 
-[1] Meyerowitz, *How Sex Changed: A History of Transsexuality in the United States*, Harvard University Press, 2002.
+[1] Joanne Meyerowitz, *How Sex Changed: A History of Transsexuality in the United States* (Harvard University Press, 2002).
 
-[2] Wells, “Exclusive! MD Reveals the Fourth Sex!: Not Male, Not Female, and Not Homosexual.”
+[2] Arnold Wells, “Exclusive! MD Reveals the Fourth Sex!: Not Male, Not Female, and Not Homosexual,” *The National Insider*, July 19, 1964.
 
-[3] John D'Emilio and Estelle B. Freedman, *Intimate Matters: A History of Sexuality in America*, Harper and Row Publishers, 1988.
+[3] John D'Emilio and Estelle B. Freedman, *Intimate Matters: A History of Sexuality in America* (Harper and Row Publishers, 1988).
 
 [4] Edward Podolsky and Carlson Wade, "What is Trans-Sexualism," in *Transvestism Today: The Phenomena of Men Who Dress as Women*, Epic Publishing Co., Inc., 1960.
 
 [5] Podolsky and Wade, "The Law Looks at Transvestism," in *Transvestism Today*.
 
-[6] Lawrence R. Samuel, *Sexidemic: A Cultural History of Sex in America*, Rowman and Littlefield Publishers, Inc., 2013, 23-24.
+[6] Lawrence R. Samuel, *Sexidemic: A Cultural History of Sex in America* (Rowman and Littlefield Publishers, Inc., 2013), 23-24.
 
-[7] Bruno Bettelheim, "The Outside World" in *Love is Not Enough: The Treatment of Emotionally Disturbed Children*, The Free Press, 1950.
+[7] Bruno Bettelheim, "The Outside World" in *Love is Not Enough: The Treatment of Emotionally Disturbed Children*, (The Free Press, 1950).
 
 [8] Bettelheim, "In the Bathroom," in *Love is Not Enough*. 
 
-[9] Rainer, John D. and Kenneth Z. Altahuler, eds. *Psychiatry and the Deaf*. U.S. Department of Health, Education, and Welfare: Social and Rehabilitation Service. 1967. 43-48.
+[9] John D. Rainer, and Kenneth Z. Altahuler, eds. *Psychiatry and the Deaf* (U.S. Department of Health, Education, and Welfare: Social and Rehabilitation Service. 1967), 43-48.
 
-[10] *Diagnostic and Statistical Manual: Mental Disorders*, American Psychiatric Association, 1952, 38-39.
+[10] American Psychiatric Association, *Diagnostic and Statistical Manual of Mental Disorders*, 1st ed. (Washington, DC: American Psychiatric Association, 1952) 38-39.
 
-[11] Miriam G. Reumann, *American Sexual Character: Sex, Gender, And National Identity in the Kinsey Reports*, University of California Press, 2005, 21-26, 183-187.
+[11] Miriam G. Reumann, *American Sexual Character: Sex, Gender, And National Identity in the Kinsey Reports* (University of California Press, 2005), 21-26, 183-187.
 
 [12] Hugo G. Beigel, "The Myth of Latent Femininity in the Male," *Turnabout: A Magazine of Transvestism*, no. 5 (Spring 1965), 3-5.
 
-[13] Gary Alinder, "Psychiatry: Crime Against Nature," *Great Speckled Bird*, 1970, 6-7. 
+[13] Gary Alinder, "Psychiatry: Crime Against Nature," *Great Speckled Bird*, June 15, 1970, 6-7. 
