@@ -15,8 +15,7 @@ tags:
   - music
 ---
 
-# Transsexual Emergence And Debate in American Psychiatry, 1950-1969
-A historical study of male-to-female transsexuals from the perspective of psychiatrists.
+# Transsexual Emergence, Debate, and Treatment in American Psychiatry, 1950-1969
 
 
 ## Introduction
