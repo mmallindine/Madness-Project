@@ -108,7 +108,7 @@ The most helpful way to understand normal and abnormal sexuality in the 50s is t
 One of the major psychoanalytic theories of the twentieth century was that certain childhood experiences caused perverse sexual behavior. Throughout the cases presented in this article, each of them includes ties to childhood causes of transsexualism or transvestism. Even Wells, who documented the new “fourth sex,” described how most transsexuals had alcoholic fathers. Several of the doctors quoted in Transvestism Today routinely go to childhood experiences to conclude how transsexualism developed. Dr. Abdullah places Q.E.’s feminine tendencies on the foster home he was in, and even had tests conducted to ensure there was nothing physically wrong with the boy. The staff in the children’s institution in Love is not Enough also discuss how childhood impacted the boys who want to grow out their hair or in other ways express desires to change sex. For the counselors at the children’s institute, they relied primarily on the child’s relationship with their mother.  
 
 {% include figure.html 
-class="right" 
+class="left" 
 width="48%" 
 caption="Ad offering discrete shopping to closeted transsexuals, from *Turnabout* Magazine. Censors present in archive." 
 image-path="images/ad1.jpg" 
@@ -125,6 +125,8 @@ image-path="images/ad2.jpg"
 %}
 
 Beigel does admit there are occasions where a person may have indistinguishable sex characteristics, but reaffirms that this, hermaphroditism, is a physical reality while transsexualism is one of the “psychotic intersexes.” Publishing this in a magazine meant to transvestites, it is clear that his aim was to stir up emotions. Dismissing people in their own media space is by no means a contribution of academic psychiatric thought. Instead he was trying to confront people he disagreed with head on.  
+
+Queer people being targeted and labeled as mentally ill by the psychiatric community pitted them against the profession. Some queer people resorted to publishing anti-psychiatry articles, especially as movements for gay rights began to pick up steam. Gary Alinder wrote one of these articles in a 1970 edition of Great Speckled Bird, a left-wing newspaper in Atlanta. Alinder’s article goes over the 1970 National Convention of the American Psychiatric Association in San Francisco. At this convention, the Gay Liberation Front confronted psychiatrists who defended queer mental illnesses. The focus for the Gay Liberation Front was homosexuality specifically, but the psychiatrist Alinder refers to specifically, Dr. Bieber, defended both transsexualism and homosexuality as disorders. When Dr. Bieber was on a panel where he was explaining transsexualism and homosexuality as mental illnesses, he was confronted by liberationists for contributing to discourse that something was wrong with queer people. Alinder called for the complete abolition of psychiatry, as it was failing queer people. Towards the end of his article, Alinder wrote, “Rather than dealing with a sick society, the shrinks deal with the individual victims of that society.” Since psychiatry was an “oppressive tool” to Alinder, there was no reforming it as other gay liberationists had wanted. He wanted psychiatry eradicated completely for failing to help and searching only to fix what was not broken in the individual.[13]
 
 ## Conclusion
 
@@ -155,3 +157,5 @@ Beigel does admit there are occasions where a person may have indistinguishable 
 [11] Miriam G. Reumann, *American Sexual Character: Sex, Gender, And National Identity in the Kinsey Reports*, University of California Press, 2005, 21-26, 183-187.
 
 [12] Hugo G. Beigel, "The Myth of Latent Femininity in the Male," *Turnabout: A Magazine of Transvestism*, no. 5 (Spring 1965), 3-5.
+
+[13] Gary Alinder, "Psychiatry: Crime Against Nature, *Great Speckled Bird*, 1970, 6-7. 
