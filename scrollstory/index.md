@@ -15,7 +15,7 @@ tags:
   - music
 ---
 
-# Transsexuality in American Psychiatry, 1950-1970
+# Male-to-Female Transsexuality in American Psychiatry, 1950-1970
 
 
 ## Introduction

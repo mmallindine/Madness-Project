@@ -4,7 +4,7 @@ layout: base
 date: 2024-12-02
 ---
 
-# Transsexuality in American Psychaitry, 1950-1970
+# Male-to-Female Transsexuality in American Psychaitry, 1950-1970
 
 
 In the 1950s and 1960s, transsexualism was a subject of debate in psychiatric circles as cases of sex change operations become more common. Some psychiatrists beleived transsexuality could be cured, while others thought the best course of action was affirmation of the transsexuals desires. In the first twenty years of transexualtiy in American discourse, some psychaitrists were sympathetic to transsexuals and figured medical intervention could help, while the mainstream view was that transsexuality was nothing more than psychiatric abnormality and illness. 
