@@ -40,16 +40,16 @@ A 1964 article of *The National Insider* by Arnold Wells titled “Exclusive! MD
 class="right" 
 width="25%" 
 caption="Image of Coccinelle in Wells' article." 
-image-path="images/mdreveal1.jpg" 
+image-path="images/mdreveal2.jpg" 
 %}
 
 In the article, Wells includes pictures of several of these transexuals in revealing outfits that show feminine body characteristics, including a nude photo of Coccinelle, a French transsexual and performer. Her body was positioned to not show anything too revealing for a newspaper, but the obvious sexual suggestiveness of the photo comes from her clearly feminine physique, facial expression, and hairstyle. The photograph mimics the pin-up girl art made famous in WWII and the images that would be used in Playboy, the popular magazine for the male sexual appetite.[3]
 
 {% include figure.html 
 class="right" 
-width="25%" 
+width="45%" 
 caption="Another image of Coccinelle in Well's article." 
-image-path="images/mdreveal2.jpg" 
+image-path="images/mdreveal1.jpg" 
 %}
 
 By framing transsexual women in the eyes of the male gaze, not to mention referring to transsexuals as women and using she/her pronouns to describe them, Wells creates a strongly affirming narrative of transsexuals as females. Beyond how Wells frames the women, the psychiatrists he quotes and cites also leave no room for misinterpretation. Summing up the findings of Dr. Pauly and Dr. Benjamin, their understanding of the transsexual is simply: “As women, they hate the male organs attached to their bodies.” The article also says that psychiatry had been unable to “cure” any transsexuals, that is, to get the transsexual to wish to live as a man, and the only fix to the mind-body disruption is for surgical operation.  
