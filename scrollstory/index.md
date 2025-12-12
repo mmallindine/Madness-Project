@@ -32,18 +32,25 @@ In September 1951, an American Army veteran named George Jorgensen began to rece
 With the political climate opening more dialogue to resisting transgender affirmation and acceptance, it is important to understand the origins of this debate. The recent spotlight of transgender issues in politics has reignited a debate about the ability to, and limits of, changing an individual’s sex. Many of the arguments heard today mirror that of the 1950s and 1960s, when transsexuality came into American discourse.  
 
 
-{% include juxtapose.html
-image1="images/mdreveal1.jpg"
-image2="images/mdreveal2.jpg"
-caption="Images of Coccinelle in Wells' article."
-%}
-
-
 ## Transsexual Affirmation
 
 A 1964 article of *The National Insider* by Arnold Wells titled “Exclusive! MD Reveals the Fourth Sex!: Not Male, Not Female, and Not Homosexual,” provides a sensationalist account of the emergence of transsexualism in public discourse. The “fourth sex” that Wells documents is the transsexual, specifically men who wish to become or have become women. Although this was written over a decade after Christine Jorgensen’s case rose to fame, Wells’s article articulates how society understood transsexuals. He reports: “members of the medical profession are divided in better controversy about it,” “Religious groups are ready to condemn it,” and “laws of every state are a mass confusion.” Despite the divide in the medical profession and societal confusion/distain for accepting these individuals, Wells writes about several psychiatrists that believe the only cure to transexual desires is to affirm both socially and surgically.[2] 
 
+{% include figure.html 
+class="right" 
+width="48%" 
+caption="Image of Coccinelle in Wells' article." 
+image-path="images/mdreveal1.jpg" 
+%}
+
 In the article, Wells includes pictures of several of these transexuals in revealing outfits that show feminine body characteristics, including a nude photo of Coccinelle, a French transsexual and performer. Her body was positioned to not show anything too revealing for a newspaper, but the obvious sexual suggestiveness of the photo comes from her clearly feminine physique, facial expression, and hairstyle. The photograph mimics the pin-up girl art made famous in WWII and the images that would be used in Playboy, the popular magazine for the male sexual appetite.[3]
+
+{% include figure.html 
+class="right" 
+width="48%" 
+caption="Another image of Coccinelle in Well's article." 
+image-path="images/mdreveal2.jpg" 
+%}
 
 By framing transsexual women in the eyes of the male gaze, not to mention referring to transsexuals as women and using she/her pronouns to describe them, Wells creates a strongly affirming narrative of transsexuals as females. Beyond how Wells frames the women, the psychiatrists he quotes and cites also leave no room for misinterpretation. Summing up the findings of Dr. Pauly and Dr. Benjamin, their understanding of the transsexual is simply: “As women, they hate the male organs attached to their bodies.” The article also says that psychiatry had been unable to “cure” any transsexuals, that is, to get the transsexual to wish to live as a man, and the only fix to the mind-body disruption is for surgical operation.  
 
