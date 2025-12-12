@@ -107,7 +107,22 @@ The most helpful way to understand normal and abnormal sexuality in the 50s is t
 
 One of the major psychoanalytic theories of the twentieth century was that certain childhood experiences caused perverse sexual behavior. Throughout the cases presented in this article, each of them includes ties to childhood causes of transsexualism or transvestism. Even Wells, who documented the new “fourth sex,” described how most transsexuals had alcoholic fathers. Several of the doctors quoted in Transvestism Today routinely go to childhood experiences to conclude how transsexualism developed. Dr. Abdullah places Q.E.’s feminine tendencies on the foster home he was in, and even had tests conducted to ensure there was nothing physically wrong with the boy. The staff in the children’s institution in Love is not Enough also discuss how childhood impacted the boys who want to grow out their hair or in other ways express desires to change sex. For the counselors at the children’s institute, they relied primarily on the child’s relationship with their mother.  
 
-One psychologist who strongly believed in the childhood origins of transsexuality was Dr. Hugo George Beigel. In a 1965 edition of Turnabout, a magazine written for a transsexual and transvestite audience, Beigel claims that affirming the idea of a female mind and male body is “stupid” and “embedded in the environmental conditions of the individuals childhood.” Beigel used the term “transvestite” throughout his essay, but the context shows he is lumping the categories of transsexual and transvestite together. He objects to both being affirmed though, and claimed made simple comparisons to try to prove that transsexuals were simply suffering from some sort of psychosis. Beigel argued that dressing and expressing as a female was a way for a man to escape the reality of some other mental condition from which he may be suffering, but he calls this “self-deception” and a way to escape reality. [12] 
+{% include figure.html 
+class="right" 
+width="48%" 
+caption="Ad offering discrete shopping to closeted transsexuals, from *Turnabout* Magazine. Censors present in archive." 
+image-path="images/ad1.jpg" 
+%}
+
+
+One psychologist who strongly believed in the childhood origins of transsexuality was Dr. Hugo George Beigel. In a 1965 edition of *Turnabout*, a magazine written for a transsexual and transvestite audience, Beigel claims that affirming the idea of a female mind and male body is “stupid” and “embedded in the environmental conditions of the individuals childhood.” Beigel used the term “transvestite” throughout his essay, but the context shows he is lumping the categories of transsexual and transvestite together. He objects to both being affirmed though, and claimed made simple comparisons to try to prove that transsexuals were simply suffering from some sort of psychosis. Beigel argued that dressing and expressing as a female was a way for a man to escape the reality of some other mental condition from which he may be suffering, but he calls this “self-deception” and a way to escape reality. [12] 
+
+{% include figure.html 
+class="right" 
+width="48%" 
+caption="Advertizement for Hair Removal for Transsexuals, from *Turbabout* Magazine." 
+image-path="images/ad2.jpg" 
+%}
 
 Beigel does admit there are occasions where a person may have indistinguishable sex characteristics, but reaffirms that this, hermaphroditism, is a physical reality while transsexualism is one of the “psychotic intersexes.” Publishing this in a magazine meant to transvestites, it is clear that his aim was to stir up emotions. Dismissing people in their own media space is by no means a contribution of academic psychiatric thought. Instead he was trying to confront people he disagreed with head on.  
 
