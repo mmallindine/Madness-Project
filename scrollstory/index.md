@@ -33,8 +33,6 @@ With the political climate opening more dialogue to resisting transgender affirm
 
 ## Transsexual Affirmation
 
-A 1964 article of *The National Insider* by Arnold Wells titled “Exclusive! MD Reveals the Fourth Sex!: Not Male, Not Female, and Not Homosexual,” provides a sensationalist account of the emergence of transsexualism in public discourse. The “fourth sex” that Wells documents is the transsexual, specifically men who wish to become or have become women. Although this was written over a decade after Christine Jorgensen’s case rose to fame, Wells’s article articulates how society understood transsexuals. He reports: “members of the medical profession are divided in better controversy about it,” “Religious groups are ready to condemn it,” and “laws of every state are a mass confusion.” Despite the divide in the medical profession and societal confusion/distain for accepting these individuals, Wells writes about several psychiatrists that believe the only cure to transexual desires is to affirm both socially and surgically.[2] 
-
 {% include figure.html 
 class="right" 
 width="25%" 
@@ -42,10 +40,12 @@ caption="Image of Coccinelle in Wells' article."
 image-path="images/mdreveal2.jpg" 
 %}
 
+A 1964 article of *The National Insider* by Arnold Wells titled “Exclusive! MD Reveals the Fourth Sex!: Not Male, Not Female, and Not Homosexual,” provides a sensationalist account of the emergence of transsexualism in public discourse. The “fourth sex” that Wells documents is the transsexual, specifically men who wish to become or have become women. Although this was written over a decade after Christine Jorgensen’s case rose to fame, Wells’s article articulates how society understood transsexuals. He reports: “members of the medical profession are divided in better controversy about it,” “Religious groups are ready to condemn it,” and “laws of every state are a mass confusion.” Despite the divide in the medical profession and societal confusion/distain for accepting these individuals, Wells writes about several psychiatrists that believe the only cure to transexual desires is to affirm both socially and surgically.[2] 
+
 In the article, Wells includes pictures of several of these transexuals in revealing outfits that show feminine body characteristics, including a nude photo of Coccinelle, a French transsexual and performer. Her body was positioned to not show anything too revealing for a newspaper, but the obvious sexual suggestiveness of the photo comes from her clearly feminine physique, facial expression, and hairstyle. The photograph mimics the pin-up girl art made famous in WWII and the images that would be used in Playboy, the popular magazine for the male sexual appetite.[3]
 
 {% include figure.html 
-class="right" 
+class="left" 
 width="25%" 
 caption="Another image of Coccinelle in Well's article." 
 image-path="images/mdreveal1.jpg" 
