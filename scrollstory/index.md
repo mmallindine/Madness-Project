@@ -93,26 +93,15 @@ One child, Lester, was clever enough to work around the clothing restrictions. H
 
 In another section of Bettelheim’s book, discussing bathing habits, a child called Louis expressed that he wished to be a girl. His confession came after counselors at the institution noticed that he would try to hide his genitals between his legs. During conversation with his counselor, Louis revealed his wish to be a girl, and that during free time he would play make-believe games as a female character. Further, he stated that he viewed himself as a girl. The specific course of his treatment is unclear in Bettelheim's narrative, as is the case with Lester. It is noted that Louis made “considerable progress,” but the specifics of his treatment are unknown.[8]
 
+In another institution, the Rockland State Hospital, a boy identified as Q.E. had a similar experience in institutional care. Q.E., a boy who spend most of his life in foster homes and in institutional care, was also deaf. His physician, Dr. Syed Abdullah, documented Q.E.’s life in Psychiatry and the Deaf, a report of the U.S. Department of Health, Education, and Welfare in 1967. Dr. Abdullah stated that the boy wore feminine clothing, makeup, walked with a feminine gait, and inconsistently referred to himself as a girl. [9]] 
+
+Nothing is mentioned of his treatment or diagnoses, but Dr. Abdullah did mention that Q.E.’s identity fits “the picture of the primary disorder of character.” The suspected causes of his tendencies to associate with feminine traits.], Dr. Abdullah theorized, was that one of the foster homes the boy had stayed in was all women, which may be where he learned to be feminine. However, Dr. Abdullah and other psychiatrists at the hospital did “investigations” on Q.E. including hormonal tests, blood tests, and chromosomal tests to try to find a cause for the femininity. No results are mentioned, likely meaning that nothing abnormal was found.  
 
 ## Queer Resistance to Psychiatry
 
 
 
 ## Conclusion
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
-
-
-{% assign images = 
-"images/mvh-menu.jpg,
-images/mvh-history-stays.jpg,
-images/mvh-room-cost.jpg" | split: ','
-%}
-
-{% include carousel.html
-images = images 
-%}
 
 
 
@@ -133,3 +122,5 @@ images = images
 [7] Bruno Bettelheim, "The Outside World" in *Love is Not Enough: The Treatment of Emotionally Disturbed Children*, The Free Press, 1950.
 
 [8] Bettelheim, "In the Bathroom," in *Love is Not Enough*. 
+
+[9] Rainer, John D. and Kenneth Z. Altahuler, eds. Psychiatry and the Deaf. U.S. Department of Health, Education, and Welfare: Social and Rehabilitation Service. 1967. 43-48.
