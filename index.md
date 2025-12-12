@@ -4,7 +4,7 @@ layout: base
 date: 2024-12-02
 ---
 
-# Early Transsexual Debates and Treatments in America 1950-1969
+# Causes and Treatments of Transsexuality in America, 1950-1969
 
 
 In the 1950s and 1960s, transvestism and transsexualism were the subject of debate in psychiatric circles in terms of treatments and causes. Some psychiatrists beleived the condition could be cured, while others thought the best course of action was affirmation of the transsexuals desires. 

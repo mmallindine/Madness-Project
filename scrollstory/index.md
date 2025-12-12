@@ -15,7 +15,7 @@ tags:
   - music
 ---
 
-# Early Transsexual Debates and Treatments in America, 1950-1969
+# Causes and Treatments of Transsexuality in America, 1950-1969
 
 
 ## Introduction
@@ -29,6 +29,8 @@ image-path="images/jorgensen1.jpg"
 In September 1951, an American Army veteran named George Jorgensen began to receive a series of surgical operations to change his sex. By the end of 1952, Jorgensen had completed surgical sex reassignment and now had a passport reflecting her new name, Christine. Jorgensen was the first largely publicized case of sex change for an American citizen. The large press coverage of her transition gave more public attention to transsexualism, but did not create any conclusions. American psychiatrists were unsure of the cause of transsexualism or how to treat it. The general debate was to affirm and medically alter the transsexual’s body, as was the case with Christine Jorgensen, or to encourage the transsexual to embrace more masculine behaviors, as was the case with countless other psychiatric patients expressing transsexuality.[1]
 
 With the political climate opening more dialogue to resisting transgender affirmation and acceptance, it is important to understand the origins of this debate. The recent spotlight of transgender issues in politics has reignited a debate about the ability to, and limits of, changing an individual’s sex. Many of the arguments heard today mirror that of the 1950s and 1960s, when transsexuality came into American discourse.  
+
+Through this article, I argue that while some psychaitrists did support allowing transsexuals to medcially transition, the greater gender norms of the time impeded gender affirming care from being the preferred course of action for the majority of the psychiatric community. 
 
 
 ## Transsexual Affirmation
@@ -93,7 +95,7 @@ One child, Lester, was clever enough to work around the clothing restrictions. H
 
 In another section of Bettelheim’s book, discussing bathing habits, a child called Louis expressed that he wished to be a girl. His confession came after counselors at the institution noticed that he would try to hide his genitals between his legs. During conversation with his counselor, Louis revealed his wish to be a girl, and that during free time he would play make-believe games as a female character. Further, he stated that he viewed himself as a girl. The specific course of his treatment is unclear in Bettelheim's narrative, as is the case with Lester. It is noted that Louis made “considerable progress,” but the specifics of his treatment are unknown.[8]
 
-In another institution, the Rockland State Hospital, a boy identified as Q.E. had a similar experience in institutional care. Q.E., a boy who spend most of his life in foster homes and in institutional care, was also deaf. His physician, Dr. Syed Abdullah, documented Q.E.’s life in Psychiatry and the Deaf, a report of the U.S. Department of Health, Education, and Welfare in 1967. Dr. Abdullah stated that the boy wore feminine clothing, makeup, walked with a feminine gait, and inconsistently referred to himself as a girl. [9]] 
+In another institution, the Rockland State Hospital, a boy identified as Q.E. had a similar experience in institutional care. Q.E., a boy who spend most of his life in foster homes and in institutional care, was also deaf. His physician, Dr. Syed Abdullah, documented Q.E.’s life in *Psychiatry and the Deaf*, a report of the U.S. Department of Health, Education, and Welfare in 1967. Dr. Abdullah stated that the boy wore feminine clothing, makeup, walked with a feminine gait, and inconsistently referred to himself as a girl. [9]
 
 Nothing is mentioned of his treatment or diagnoses, but Dr. Abdullah did mention that Q.E.’s identity fits “the picture of the primary disorder of character.” The suspected causes of his tendencies to associate with feminine traits.], Dr. Abdullah theorized, was that one of the foster homes the boy had stayed in was all women, which may be where he learned to be feminine. However, Dr. Abdullah and other psychiatrists at the hospital did “investigations” on Q.E. including hormonal tests, blood tests, and chromosomal tests to try to find a cause for the femininity. No results are mentioned, likely meaning that nothing abnormal was found.  
 
