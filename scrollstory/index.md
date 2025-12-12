@@ -101,7 +101,9 @@ Nothing is mentioned of his treatment or diagnoses, but Dr. Abdullah did mention
 
 ## Queer Resistance to Psychiatry
 
+In 1952, the DSM-I was published by the American Psychiatric Association. In this book, the association classifies transvestism and homosexuality as “sexual deviation,” along with rape and sexual assault. Transsexualism was not included, as the difference between transsexualism and transvestism was not yet a clear difference, as psychiatrists were divided on whether someone could truly change their sex or if that was just part of transvestic tendencies. Regardless of what psychiatrists thought the difference was, it was officially categorized as abnormal. [10]  
 
+ The most helpful way to understand normal and abnormal sexuality in the 50s is through the Dr. Alfred Kinsey’s Sexual Behavior in the Human Male, often referred to as the Kinsey Report. In this Report, Dr. Kinsey goes over findings of sexual habits, concluding that most American men engage in some sort of deviant sexual behavior, and that younger men are the ones that engage in this behavior more often. While some praised Kinsey’s work as a step towards sexual liberation, including Dr. Benjamin mentioned earlier, others used his report to justify needing to purify society from the emerging rates of deviance. A new focus on finding the causes for these queer identities and behaviors was kicked off after the Kinsey Report was published, as many psychiatrists and psychoanalysts figured the best way to understand queerness was not to study rates of it, but to find the cause. [11] 
 
 ## Conclusion
 
@@ -125,4 +127,8 @@ Nothing is mentioned of his treatment or diagnoses, but Dr. Abdullah did mention
 
 [8] Bettelheim, "In the Bathroom," in *Love is Not Enough*. 
 
-[9] Rainer, John D. and Kenneth Z. Altahuler, eds. Psychiatry and the Deaf. U.S. Department of Health, Education, and Welfare: Social and Rehabilitation Service. 1967. 43-48.
+[9] Rainer, John D. and Kenneth Z. Altahuler, eds. *Psychiatry and the Deaf*. U.S. Department of Health, Education, and Welfare: Social and Rehabilitation Service. 1967. 43-48.
+
+[10] *Diagnostic and Statistical Manual: Mental Disorders*, American Psychiatric Association, 1952, 38-39.
+
+[11] Miriam G. Reumann, *American Sexual Character: Sex, Gender, And National Identity in the Kinsey Reports*, University of California Press, 2005, 21-26, 183-187.
