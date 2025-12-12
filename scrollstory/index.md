@@ -34,9 +34,9 @@ With the political climate opening more dialogue to resisting transgender affirm
 [^note1]: Meyerowitz, *How Sex Changed*, 60-61.
 
 {% include juxtapose.html
-image1="images/mvh-tv-room.jpg"
-image2="images/mvh-hist-common-room.jpg"
-caption="From the TV room to the Chair room (actually, the History Department Common Room). With a less good view of the mountains."
+image1="images/mdreveal1.jpg"
+image2="images/mdreveal2.jpg"
+caption="Images of Coccinelle in Wells' article."
 %}
 
 
