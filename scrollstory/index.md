@@ -80,7 +80,7 @@ Just as this shift in attitudes towards sex education were happening, Bruno Bett
 
 {% include figure.html 
 class="right" 
-width="25%" 
+width="48%" 
 caption="Boys' Room at the Institution." 
 image-path="images/boysroom1.jpg" 
 %}
